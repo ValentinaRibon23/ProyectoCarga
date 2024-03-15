@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565516799953",
+    "firebase_url": "https://cargadirecta-416121-default-rtdb.firebaseio.com",
+    "project_id": "cargadirecta-416121",
+    "storage_bucket": "cargadirecta-416121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565516799953:android:4f2b81747406d8ef1edaf0",
+        "android_client_info": {
+          "package_name": "com.upc.cargadirecta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXtdtj4Rpk0z8VLk__HKbKJpyoDEmBf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

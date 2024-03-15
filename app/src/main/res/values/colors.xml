@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Color_primario">#FFA500</color>
+    <color name="Color_primario_oscuro">#FF7F00</color>
+    <color name="Color_acentuacion">#FFD700</color>
+    <color name="Color_BTN_cliente">#2E8B57</color>
+</resources>
